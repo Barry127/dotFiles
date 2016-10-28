@@ -1,0 +1,19 @@
+{
+  "color_scheme": "Packages/Theme - Seti Monokai/scheme/Seti Monokai.tmTheme",
+  "folder_exclude_patterns":
+  [
+    ".svn",
+    ".git",
+    ".hg",
+    "CVS",
+    "node_modules"
+  ],
+  "font_size": 11,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "tab_size": 2,
+  "theme": "SoDaReloaded Dark.sublime-theme",
+  "translate_tabs_to_spaces": true
+}
