@@ -8,6 +8,7 @@ List of installed sublime packages.
  * Git
  * GitGutter
  * Markdown Preview
+ * npm
  * Package Control
  * Seti_UI
  * Theme - Seti Monokai
