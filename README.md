@@ -1,6 +1,9 @@
 # dotFiles
 Settings for my apps and projects
 
+### Git
+ * **.gitconfig** _config file for git_
+
 ### Sublime
 
  * **Default (Linux).sublime-keymap** _Shortcuts_
