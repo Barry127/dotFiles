@@ -1,3 +1,6 @@
 [user]
 	name = Barry de Kleijn
 	email = kleijn.barry@gmail.com
+[alias]
+  s = status -s
+  lg = log --oneline --decorate --all --graph
