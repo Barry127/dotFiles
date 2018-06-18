@@ -5,11 +5,13 @@ List of installed sublime packages.
  * AutoFileName
  * Babel
  * CSS Extended Completions
- * DockBlockr
+ * DocBlockr
  * Emmet
  * Git
  * GitGutter
- * Markdown Preview
+ * GraphQL
+ * jsPrettier
+ * MarkdownPreview
  * Mocha Snippets
  * npm
  * Package Control
