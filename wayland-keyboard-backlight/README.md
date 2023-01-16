@@ -6,13 +6,17 @@ GNOME startup scripts run as the current user. To make keyboard backlight work o
 
 ## How to
 
- - move `led-permissions.service` to `/etc/systemd/system/led-permissions.service`
+ - move `led-permission.service` to `/etc/systemd/system/led-permission.service`
 
- - `sudo chmod 664 /etc/systemd/led-permissions.service`
+ - `sudo chmod 664 /etc/systemd/system/led-permission.service`
 
- - move `led-permissions.sh` to `/usr/local/bin/led-permissions.sh`
+ - move `led-permission.sh` to `/usr/local/bin/led-permission.sh`
 
- - `sudo chmod 744 /urs/local/bin/led-permissions.sh`
+ - `sudo chmod 744 /urs/local/bin/led-permission.sh`
+
+ - `sudo systemctl daemon-reload`
+
+ - `sudo systemctl enable led-permission.service`
 
  - move `keyboard-backlight.sh` to `~/keyboard-backlight.sh`
 
